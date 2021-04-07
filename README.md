@@ -1,4 +1,6 @@
-#Architecture du projet
+# Tilings
+
+## Architecture du projet
 
 Le code est organisé en 3 répertoires: achiev0/, achiev1/ et latest/.
 Chaque répertoire contient 2 sous répertoires: src/ et tst/ et un fichier Makefile qui permet de compiler le programme.
@@ -13,7 +15,7 @@ la commande "./project" permet d'exécuter le programme.
 la commande "make test" permet de compiler et d'exécuter le test.
 
 
-#Dépôt pour les projets S5 (PR103)
+## Dépôt pour les projets S5 (PR103)
 
 - Lien vers le sujet du projet :
 
@@ -28,7 +30,7 @@ la commande "make test" permet de compiler et d'exécuter le test.
 	<https://thor.enseirb-matmeca.fr/ruby/docs/repository/git>
 
 
-#Contributeurs
+## Contributeurs
 
 - LAMHAMDI Aymane
 - KASOUR Mahmoud
